@@ -1,0 +1,9 @@
+# Code-only publication allowlist. Data and generated outputs remain private.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/analysis_validation.py
+!/data_prep.py
+!/survey_utils.py
+!/validate_analysis.py
